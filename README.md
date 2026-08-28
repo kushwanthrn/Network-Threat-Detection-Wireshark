@@ -25,10 +25,10 @@ Each folder contains the full evidence set for that test — Wireshark screensho
 
 ```
 ├── Network-Threat-Detection-Write-Up.pdf
-├── Reverse-Shell-True-Positive/
-├── Reverse-Shell-False-Positive/
+├── Beaconing-False-Positive/
 ├── Beaconing-True-Positive/
-└── Beaconing-False-Positive/
+├── Reverse-Shell-False-Positive/
+└── Reverse-Shell-True-Positive/
 ```
 
 ## Skills Demonstrated
